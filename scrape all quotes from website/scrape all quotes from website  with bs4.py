@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 ## url of site which we scrape
 url = "https://parade.com/937586/parade/life-quotes/"
 
